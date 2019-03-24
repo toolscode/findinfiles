@@ -1,6 +1,6 @@
 # FindInFiles
 <!-- <p align="center">
-<img alt="Marta Logo" src="/logo.png" width="329" height="167" />
+<img alt="FindInFiles Logo" src="/logo.png" width="329" height="167" />
 </p>
  -->
 FindInFiles is searching text in sources for developers in Windows and macOS.
