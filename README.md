@@ -1,11 +1,10 @@
 # FindInFiles
-<!-- <p align="center">
-<img alt="FindInFiles Logo" src="/logo.png" width="329" height="167" />
+<p align="center">
+<img alt="FindInFiles Logo" src="/logo_mac.png" width="329" height="167" />
 </p>
- -->
 FindInFiles is searching text in sources for developers in Windows and macOS.
 
-You can read more about FindInFiles on its official site: <https://toolscode.com/>. Come get some!
+You can read more about FindInFiles on its official site: <https://toolscode.com>. Come get some!
 
 ## FindInFiles Issue Tracker
 
