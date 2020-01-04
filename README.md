@@ -6,6 +6,24 @@ FindInFiles is searching text in sources for developers in Windows and macOS.
 
 You can read more about FindInFiles on its official site: <https://toolscode.com>. Come get some!
 
+## Screen shots
+
+<p align="center">
+<img alt="FindInFiles Logo" src="/FindInFiles_macOS_1.png" />
+</p>
+
+<p align="center">
+<img alt="FindInFiles Logo" src="/FindInFiles_macOS_2.png" />
+</p>
+
+<p align="center">
+<img alt="FindInFiles Logo" src="/FindInFiles_macOS_3.png" />
+</p>
+
+<p align="center">
+<img alt="FindInFiles Logo" src="/FindInFiles_macOS_4.png" />
+</p>
+
 ## FindInFiles Issue Tracker
 
 This tracker was created to allow FindInFiles users report bugs and submit feature requests.
